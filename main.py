@@ -31,7 +31,7 @@ def save():
                                                       f"\nPassword: {password} \nIs it ok to save?")
         if is_ok:
             with open("data.txt", "a") as data_file:
-                data_file.write(f"{website} | {email} | {password}\n")
+                data_file.write(f"{website} || {email} || {password}\n")
                 website_entry.delete(0, END)
                 password_entry.delete(0, END)
 
