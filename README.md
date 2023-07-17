@@ -5,7 +5,7 @@ This is a password manager application built using Python and Tkinter. It allows
 ## Features
 
 Generate secure random passwords with letters, numbers, and symbols.
-Save website login details (URL of the website, email/username, and password) securely.
+Save website login details (URL of the website, email/username, and Password) securely.
 
 ## How to Use
 Clone the repository or download the code files.
