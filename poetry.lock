@@ -5,7 +5,6 @@ name = "pyperclip"
 optional = false
 python-versions = "*"
 version = "1.8.0"
-
 [metadata]
 content-hash = "5d9cc2f990cafa19af5e533437016df532282d216cc52a4ec219cd256360edc3"
 python-versions = "^3.8"
